@@ -1,0 +1,127 @@
+.header-search.fixed-height {
+    height: 195px;
+}
+.page-heading {
+    height: 195px;
+   
+}
+
+.about-us-heading {
+    background: url(../img/content/banner-5.jpg) top center no-repeat;
+    background-size: cover;
+}
+.page-heading > span {
+    background-color: rgba(66, 133, 244, 0.26);
+}
+ #header .header-nav-bar .primary-nav > li > a {
+    font-size: 15px;
+    line-height: 58px;
+    padding: 0px 18px!important;
+}
+
+.title {
+    margin: 0 5px 0 0!important;
+}
+.sub_dir {
+    font-size: 16px;   
+    padding-bottom: 11px;
+    border: 1px solid #e9e9e9;
+    border-bottom: 3px solid #e9e9e9;
+     margin-bottom: 20px;
+}
+.hdin {
+    font-size: 16px;
+    margin: 18px 0 9px 0;
+    padding-bottom: 11px;
+    border-bottom: 1px solid #e9e9e9;
+}
+.my_img {
+    width: 100%;
+    max-height: 200px;
+    margin-top: 15px;
+    float: left;
+}
+.blog_vw {
+    margin-bottom: 18px;
+    margin-left: 10px;
+    margin-top: -30px;
+    float: left;
+    font-size: 16px;
+}
+.uou-custom-select .select-clone {
+    text-align: left;
+}
+.clr { clear: both;}
+input {
+    border: 1px solid #e9e9e9;
+}
+#header .header-nav-bar .primary-nav > li.bg-color {
+     background-color: #fff;
+}
+p,a{
+    
+    line-height: 26px;
+    font-weight: 400;
+    font-family: 'Raleway';
+    font-style: normal;
+    color: #000;
+   
+}
+.btn-default {
+    color: #FFFFFF;
+}
+.t_tex {
+    BORDER-BOTTOM: 1PX SOLID #DCDCDC;
+    PADDING-BOTTOM: 15PX;
+    FONT-WEIGHT: 600;
+}
+
+.blog-list .post {
+    font-size: 16px;
+    line-height: 28px;
+}
+.img-responsive {
+    width: 100%; height: auto;
+}
+.bx {
+    border: 1px solid #e9e9e9;
+    width: 100%;
+    display: block;
+    float: left;
+    padding: 15px 0 8px 0;
+    margin: 8px 0 8px 0;
+    border-bottom: 3px solid #e9e9e9;
+}
+.about-us .member-details .porfile-pic ul li a {
+    color: #FFFFFF;
+}
+.about-us .member-details .porfile-pic ul li {
+
+    background-color: #4285F4;
+
+}
+.about-us .member-details .porfile-pic ul li:hover {
+    background-color: #3E3D39;
+}
+.search-btn1 {
+    width: 40px;
+    height: 40px;
+    color: #FFFFFF;
+    background-color: #4285F4;
+    margin-left: 5px;
+}
+.my {
+    width: 80%;
+    height: 43px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+    
+.h4, h4 {
+    font-size: 27px;
+}
+
+    
+.h4, .h5, .h6, h4, h5, h6 {
+    margin-top: 23px;
+}
