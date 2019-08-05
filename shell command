@@ -1,0 +1,4 @@
+docker rm -f stackhives
+docker build /root/jenkins/workspace/website-deployment-container -t pramodksahoo/test
+docker push pramodksahoo/test
+docker run -it -p 80:80 -d --name=stackhives pramodksahoo/test
